@@ -1,6 +1,6 @@
 .flex {
     display: flex;
-    width: 960px;
+    width: 600px;
     max-width: 100%;
     flex-wrap: wrap;
 }
